@@ -104,6 +104,5 @@ public class Main {
         for (int i=0;i<thisYears+100;i++){
             if (i%comet==0&&i>thisYears-200) System.out.println(i); //Это было КРУТО!!!=))
         }
-
     }
 }
